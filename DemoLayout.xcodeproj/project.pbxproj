@@ -14,6 +14,7 @@
 		34DB459828A3CC0B005987A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34DB459628A3CC0B005987A3 /* LaunchScreen.storyboard */; };
 		34DB45A328A3CCFD005987A3 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34DB45A228A3CCFD005987A3 /* HomeViewController.swift */; };
 		34DB45A528A3DED4005987A3 /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34DB45A428A3DED4005987A3 /* InfoViewController.swift */; };
+		34F6FEE228AB6A560016C26F /* ExtraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34F6FEE128AB6A560016C26F /* ExtraViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		34DB459928A3CC0B005987A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		34DB45A228A3CCFD005987A3 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		34DB45A428A3DED4005987A3 /* InfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
+		34F6FEE128AB6A560016C26F /* ExtraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtraViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 			children = (
 				34DB45A228A3CCFD005987A3 /* HomeViewController.swift */,
 				34DB45A428A3DED4005987A3 /* InfoViewController.swift */,
+				34F6FEE128AB6A560016C26F /* ExtraViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -168,6 +171,7 @@
 				34DB458C28A3CC08005987A3 /* AppDelegate.swift in Sources */,
 				34DB458E28A3CC08005987A3 /* SceneDelegate.swift in Sources */,
 				34DB45A528A3DED4005987A3 /* InfoViewController.swift in Sources */,
+				34F6FEE228AB6A560016C26F /* ExtraViewController.swift in Sources */,
 				34DB45A328A3CCFD005987A3 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
